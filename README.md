@@ -1,7 +1,7 @@
 # Justice & Notary Branch Delays in Five Southwest Regions
 
 **Course:** Data Visualization and Storytelling
-**Student:** Afnan Alsenan
+**Student:** Amro Alamro
 **SDAIA Academy:** https://github.com/SDAIAAcademy
 
 ## Project description
